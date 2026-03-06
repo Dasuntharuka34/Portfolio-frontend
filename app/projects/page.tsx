@@ -9,10 +9,10 @@ const projects = [
     technologies: ['React', 'Node.js', 'MongoDB', 'Vercel'],
   },
   {
-    title: 'Project Two',
-    description: 'A brief description of Project Two. This project showcases advanced front-end development techniques and a clean user interface.',
-    link: '#',
-    technologies: ['TypeScript', 'Node.js', 'Express.js'],
+    title: 'Realtime Task Management System',
+    description: 'This project is a Real-Time Kanban Task Management System, a high-performance, full-stack application designed for seamless team collaboration. It enables users to manage complex workflows through an intuitive, interactive interface where every action is synchronized across all connected clients in real-time.',
+    link: 'https://realtime-task-management-system-fro.vercel.app',
+    technologies: ['React', 'Node.js', 'MongoDB', 'Vercel', 'Tailwind CSS'],
   },
   {
     title: 'Project Three',

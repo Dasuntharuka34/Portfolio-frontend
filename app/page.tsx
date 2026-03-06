@@ -68,11 +68,11 @@ export default function Home() {
             {/* Project Card 2 */}
             <div className="bg-background rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2">Project Title 2</h3>
+                <h3 className="text-xl font-semibold mb-2">Realtime Task Management System</h3>
                 <p className="text-foreground/80 mb-4">
-                  A brief description of the project, its purpose, and the technologies used.
+                  This project is a Real-Time Kanban Task Management System, a high-performance, full-stack application designed for seamless team collaboration. It enables users to manage complex workflows through an intuitive, interactive interface where every action is synchronized across all connected clients in real-time.
                 </p>
-                <a href="#" className="font-medium text-blue-600 hover:underline">
+                <a href="https://realtime-task-management-system-fro.vercel.app" className="font-medium text-blue-600 hover:underline">
                   View Details &rarr;
                 </a>
               </div>
