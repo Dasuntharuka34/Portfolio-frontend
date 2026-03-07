@@ -78,7 +78,7 @@ export default function Home() {
               </div>
             </div>
             {/* Project Card 3 */}
-            <div className="bg-background rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
+            {/* <div className="bg-background rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-2">Project Title 3</h3>
                 <p className="text-foreground/80 mb-4">
@@ -88,7 +88,7 @@ export default function Home() {
                   View Details &rarr;
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </section>
 

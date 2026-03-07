@@ -14,12 +14,12 @@ const projects = [
     link: 'https://realtime-task-management-system-fro.vercel.app',
     technologies: ['React', 'Node.js', 'MongoDB', 'Vercel', 'Tailwind CSS'],
   },
-  {
-    title: 'Project Three',
-    description: 'A brief description of Project Three. This is a full-stack application that demonstrates both front-end and back-end skills.',
-    link: '#',
-    technologies: ['Python', 'Django', 'PostgreSQL'],
-  },
+  // {
+  //   title: 'Project Three',
+  //   description: 'A brief description of Project Three. This is a full-stack application that demonstrates both front-end and back-end skills.',
+  //   link: '#',
+  //   technologies: ['Python', 'Django', 'PostgreSQL'],
+  // },
 ];
 
 const ProjectCard = ({ title, description, link, technologies }: typeof projects[0]) => (
