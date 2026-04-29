@@ -4,9 +4,9 @@ import Image from 'next/image';
 
 export default function About() {
   return (
-    <div className="bg-background font-sans text-foreground">
+    <div className="bg-background font-sans text-foreground min-h-screen flex flex-col">
       <Header />
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <main className="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <section id="about" className="py-20">
           <div className="text-center">
             <h2 className="text-3xl font-bold mb-4">About Me</h2>

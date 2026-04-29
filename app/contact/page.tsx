@@ -47,9 +47,9 @@ export default function Contact() {
   };
 
   return (
-    <div className="bg-background font-sans text-foreground">
+    <div className="bg-background font-sans text-foreground min-h-screen flex flex-col">
       <Header />
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <main className="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <section id="contact" className="py-20 text-center">
           <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
           <p className="text-lg text-foreground/80 mb-8 max-w-xl mx-auto">
